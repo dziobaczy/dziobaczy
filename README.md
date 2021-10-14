@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome internet traveller
 
-<!--
-**OfftheCode/OfftheCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Peter and I work as iOS Developer @dotintent. Sometimes I also code games with the @bodgingbear team
 
-Here are some ideas to get you started:
+👨🏻‍💻 did some non-profit JS Workshops while volunteering in Zambia 🇿🇲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/bibixx/bongohive-js-workshops
+
+👾 Game studio
+
+https://bodgingbear.dev
+
+📫 How to reach me
+
+✉️ offthecode@gmail.com
+🕊 https://twitter.com/Dziobaczy
