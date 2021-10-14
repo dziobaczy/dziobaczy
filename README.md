@@ -1,6 +1,6 @@
 ### Welcome internet traveller
 
-I'm Peter and I work as iOS Developer @dotintent. Sometimes I also code games with the @bodgingbear team
+I'm Peter and I work as iOS Developer for [@intent](https://withintent.com). Sometimes I also code games with the [@bodgingbear](https://github.com/bodgingbear) team
 
 👨🏻‍💻 did some non-profit JS Workshops while volunteering in Zambia 🇿🇲
 
