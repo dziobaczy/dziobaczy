@@ -6,6 +6,8 @@ I'm Peter (tho people call me dziobak in eng platypus) and I work as iOS Develop
 
 If you like mobile apps development and live in Warsaw - come to Mobile Warsaw Meetup that I host to growth your skills and chat with great devs!
 
+https://www.mobilewarsaw.pl
+
 👨🏻‍💻 did some non-profit JS Workshops while volunteering in Zambia 🇿🇲
 
 https://github.com/bibixx/bongohive-js-workshops
