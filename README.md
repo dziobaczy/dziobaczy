@@ -1,6 +1,6 @@
 ### Welcome internet traveller
 
-I'm Peter (tho people call me dziobak in eng platypus) and I work as iOS Developer for [stoic](https://stoicroutine.com). Sometimes I also code games with the [@bodgingbear](https://github.com/bodgingbear) team
+I'm Peter (tho people call me dziobak in eng platypus) and I work as Senior iOS Engineer for [stoic](https://saily.com/). Sometimes I also code games with the [@bodgingbear](https://github.com/bodgingbear) team
 
 🌇 Mobile Warsaw
 
